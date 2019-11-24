@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  width:100%;
+}
+
+
+.ant-carousel {
+   background-color: #d4d4d4;
+   border-radius: 5px;
+  }
+  
+.ant-carousel .slick-slide {
+  margin-top:6px;
+  text-align: center;
+  height: 140px;
+  overflow: hidden;
+}
+
+.ant-carousel .slick-slide h3 {
+  color: #5e5e5e;
+}
