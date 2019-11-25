@@ -53,6 +53,7 @@
     "velocity-react": "^1.4.3"
   },
   "devDependencies": {
+    "cross-env": "^6.0.3",
     "purgecss": "^1.4.0",
     "react-scripts": "1.0.0",
     "tailwindcss": "^1.1.2"
