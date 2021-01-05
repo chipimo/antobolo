@@ -9,7 +9,7 @@
     "@material-ui/lab": "^4.0.0-alpha.31",
     "antd": "^3.23.6",
     "autosuggest-highlight": "^3.1.1",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "clsx": "^1.0.4",
     "faker": "^4.1.0",
     "flux": "^3.1.3",
